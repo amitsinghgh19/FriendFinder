@@ -1,7 +1,7 @@
 {
   "name": "FriendFinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Amit's Friend Finder",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/amitsinghgh19/FriendFinder.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Amit Singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amitsinghgh19/FriendFinder/issues"
