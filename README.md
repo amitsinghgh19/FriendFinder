@@ -11,8 +11,7 @@ In this activity, you'll build a compatibility-based "FriendFinder" application.
 - - -
 ## IMPORTANT LINKS
 
-* [Link to the web site hosted on Heroku]()
-
+* [Link to the web site hosted on Heroku](https://intense-badlands-55920.herokuapp.com/)
 * [Link to my repository](https://github.com/amitsinghgh19/FriendFinder.git)
 
 - - - 
