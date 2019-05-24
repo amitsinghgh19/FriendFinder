@@ -18,8 +18,6 @@ var PORT = process.env.PORT || 8000;
 // For serving of static CSS
 app.use(express.static(__dirname + "/app/public/css"));
 app.use(express.static(__dirname + "/app/public/images"));
-//app.use(express.static(__dirname + "/app/public/css/homestyle.css"));
-//app.use(express.static(__dirname + "/app/public/css/surveystyle.css"));
 
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
